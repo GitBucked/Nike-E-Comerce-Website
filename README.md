@@ -1,7 +1,7 @@
 # 👟 Shoe Store Landing — React + Vite + Tailwind
 
 A sleek, responsive sneaker storefront built with **React**, **Vite**, and **Tailwind CSS**.  
-Modular, reusable components power each section (Hero, Popular Products, Services, Special Offer, Reviews, Subscribe, Footer) so you can swap brands and content without touching layout.
+Modular, reusable components power each section (Hero, Popular Products, Services, Special Offer, Reviews, Subscribe, Footer).
 
 ---
 

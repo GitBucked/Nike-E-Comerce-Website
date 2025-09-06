@@ -59,7 +59,7 @@ Modular, reusable components power each section (Hero, Popular Products, Service
 ```
 ---
 
-## Status
+## 📌 Status
 This is **not a template**. Feel free to fork if you really want, but it's shared as-is with no support.
 ---
 

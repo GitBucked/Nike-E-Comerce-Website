@@ -9,7 +9,7 @@ Modular, reusable components power each section (Hero, Popular Products, Service
 - **Responsive** from mobile → desktop
 - **Reusable UI**: buttons, nav, product/review/service cards
 - **Data‑driven** content in `src/constants/index.js`
-- **Fast dev**: Vite + hot reload
+- **Fast dev**: Vite + LiveServer
 - **Clean styles**: Tailwind utilities & sensible defaults
 
 ---

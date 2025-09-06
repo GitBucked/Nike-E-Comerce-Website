@@ -22,26 +22,6 @@ Modular, reusable components power each section (Hero, Popular Products, Service
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-# 1) Install dependencies
-npm install
-
-# 2) Start the dev server (http://localhost:5173)
-npm run dev
-
-# 3) Build for production
-npm run build
-
-# 4) Preview the production build
-npm run preview
-```
-
-> Node.js 18+ (LTS) recommended. npm ships with Node.
-
----
-
 ## 🗂 Project Structure
 
 ```
@@ -79,39 +59,6 @@ npm run preview
 ```
 
 ---
-
-## 🛠 Customize
-
-- **Branding / Images** → replace files in `src/assets/images` & `src/assets/icons`  
-- **Content / Products** → edit arrays in `src/constants/index.js`  
-  *(names, prices, ratings, image imports, stats, nav links)*
-- **Theme** → tweak Tailwind config in `tailwind.config.js`  
-- **SEO / Meta** → edit `index.html` (title, description, favicon)
-
----
-
-## 🧪 Linting (optional)
-
-```bash
-npm run lint
-```
-
----
-
-## 🧯 Troubleshooting
-
-- **Tailwind not applying?** Ensure `index.css` has Tailwind directives and `tailwind.config.js` includes:
-  ```js
-  content: ["./index.html", "./src/**/*.{js,jsx,ts,tsx}"]
-  ```
-- **Images not showing?** Check the import path and file names in `src/assets/images`.
-- **Port in use?** `npm run dev -- --port 5174`.
-
----
-
-## 📝 Notes
-- This project is for demo/educational purposes. Product names/brands/logos may be trademarks of their respective owners.
-- Feel free to reuse this as a template for future product/brand landings.
 
 ## 📄 License
 MIT

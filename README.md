@@ -109,19 +109,6 @@ npm run lint
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots to the repo (e.g. `/public/preview-hero.png`) and link them below:
-
-```
-![Hero](./public/preview-hero.png)
-![Popular Products](./public/preview-products.png)
-![Offer](./public/preview-offer.png)
-```
-*(Remove this section if not needed.)*
-
----
-
 ## 📝 Notes
 - This project is for demo/educational purposes. Product names/brands/logos may be trademarks of their respective owners.
 - Feel free to reuse this as a template for future product/brand landings.

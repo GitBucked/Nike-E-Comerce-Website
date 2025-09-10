@@ -57,14 +57,6 @@ Modular, reusable components power each section (Hero, Popular Products, Service
 ├─ vite.config.js
 └─ package.json
 ```
----
-
-## 📌 Status
-This is **not a template**. Feel free to fork if you really want, but it's shared as-is with no support.
----
-
-## 📄 License
-- **Code:** MIT (see `LICENSE`)
 - **Assets & Trademarks:** All Nike names, logos, and product imagery are the property of Nike, Inc. and their respective owners. They are included here for demo/educational purposes only and are **not** licensed by this project. No endorsement is implied. Replace these assets before any production use.
 
 
